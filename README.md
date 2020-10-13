@@ -1,6 +1,6 @@
 # jk08ti3c
 Bazy danych prywatne
-# Project title
+# Własne repozytorium kodów
  
 This project simply solves `this` problem.
  
@@ -15,31 +15,31 @@ $object = new Class(1, 2, 3)
 $object->makeAwesome($data);
 ```
  
-## Documentation
+## Dokumentacja
  
-To find out how to use this library follow [Documentation](http://link-to-documentation).
+ Moja dokumentacja dotycząca pracy w domu z zajęć projektowanie i systemy baz danych.
  
 ## Installation
- 
-You can install it with Composer:
+
+Instalacja została wykonana na zajęciach:
  
 ```
-composer require vendor/project
+https://github.com/proszewyjsc/jk08ti3c
 ```
  
-## Features
+## Cel i funkcje
  
-* Can make this and this
-* Helps with some other problew
-* Is awesome
+* Zbiór elementów pracy w domu
+* Mozliwość pomocy kolegów z zespołu projektowego
+* Nadzór kierownika projektu
  
-## Contribute
+## Wkład projektowy
  
-* Issue Tracker: github.com/vendor/project/issues
-* Source Code: github.com/vendor/project
+* Główny nadzór: https://github.com/Michal3456
+* Kod Projektu: https://github.com/proszewyjsc
 * Tests: phpunit
  
-## License
+## Licencja
  
 This project is released under the MIT Licence. See the bundled LICENSE file for details.
  
